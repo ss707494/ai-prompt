@@ -7,7 +7,7 @@
 - 严格遵守Conventional Commits格式。
 - 使用允许的类型：`feat`、`fix`、`build`、`chore`、`ci`、`docs`、`style`、`test`、`perf`、`refactor`等。
 - 格式应为：<type>(<scope>): <description>
-- 生成的提交信息应为英文
+- 生成的提交信息必须用英文
 - 提交信息标题应全部小写。
 - 提交信息标题应少于60个字符。
 - 使用现在时。
@@ -26,14 +26,14 @@
 
 # 输出示例
 
-   fix(app): correct input validation in user registration
-   feat(home): add a new feature
-   perf(home): improve performance
-   chore(deps): update dependencies
-   docs(readme): update usage section
-   style(home): add a new style
-   test(home): add a new test
-   perf(home): improve performance
-   refactor(home): refactor code
+   `fix(app): correct input validation in user registration`
+   `feat(home): add a new feature`
+   `perf(list-page): improve performance`
+   `chore(deps): update dependencies`
+   `docs(readme): update usage section`
+   `style(detail-page): add a new style`
+   `test(detail-page): add a new test`
+   `perf(detail-page): improve performance`
+   `refactor(detail-page): refactor code`
 
 # 输入
